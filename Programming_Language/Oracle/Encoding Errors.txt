@@ -1,0 +1,6 @@
+﻿Due to the limitations of the supported zip file format, the following file(s) had to be renamed.
+
+Original File Name  ->  New File Name
+oracle基础教程1.pdf -> File1.pdf
+oracle基础教程2.pdf -> File2.pdf
+oracle基础教程3.pdf -> File3.pdf
